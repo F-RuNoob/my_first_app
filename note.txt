@@ -1,0 +1,2 @@
+签名格式转换为行业标准（建议非强制）
+keytool -importkeystore -srckeystore C:\Users\Administrator\mykey.jks -destkeystore C:\Users\Administrator\mykey.jks -deststoretype pkcs12
