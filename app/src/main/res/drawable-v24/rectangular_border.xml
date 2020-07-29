@@ -7,7 +7,7 @@
     <stroke android:width="2px" android:color="#000000"/>
     <!-- 渐变 -->
     <gradient
-        android:angle="#a57a81"
+        android:angle="360"
         android:centerColor="@color/colorPrimaryDark"
         android:endColor="#AE1919"
         android:startColor="#FCD209" />

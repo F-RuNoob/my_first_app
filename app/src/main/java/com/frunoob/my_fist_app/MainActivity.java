@@ -11,7 +11,7 @@ import android.widget.EditText;
 
 
 public class MainActivity extends AppCompatActivity {
-    public static final String EXTRA_MESSAGE = "com.frunoob.My_Fist_APP.MESSAGE";
+    //public static final String EXTRA_MESSAGE = "com.frunoob.My_Fist_APP.MESSAGE";
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
